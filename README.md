@@ -1,7 +1,7 @@
 <div align="center">
   <!-- 왼쪽 끝 -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Honk&size=35&pause=1000&color=62A9F7&width=435&lines=HI%2C+there.+I'm+subin.+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Honk&size=35&pause=1000&color=659CF7&width=435&lines=HI%2C+there.+I'm+subin.+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 
 </div>
