@@ -1,7 +1,5 @@
 <!-- <div align="center">
-  <!-- <a href="https://git.io/typing-svg"> -->
     <img src="https://readme-typing-svg.demolab.com?font=Honk&size=35&pause=100000&color=659CF7&width=435&lines=Hi+there.+I'm+subin.+%F0%9F%91%8B" alt="Typing SVG" />
-  <!-- </a> -->
 </div> -->
 
 
